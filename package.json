@@ -9,6 +9,10 @@
     "test": "mocha --reporter spec -r ts-node/register test/**/*.ts -p",
     "build": "tsc"
   },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/kei155/kokr"
+  },
   "author": "Gardeneel <owneul@gmail.com>",
   "license": "MIT",
   "devDependencies": {
