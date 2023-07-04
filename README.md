@@ -1,3 +1,10 @@
+![GitHub](https://img.shields.io/github/license/kei155/kokr)
+![npm](https://img.shields.io/npm/v/%40owneul%2Fkokr)
+![npm](https://img.shields.io/npm/dm/%40owneul%2Fkokr)
+![npm type definitions](https://img.shields.io/npm/types/%40owneul%2Fkokr)
+![GitHub Release Date - Published_At](https://img.shields.io/github/release-date/kei155/kokr)
+
+
 # KOKR
 개발을 하다보면 숱하게 마주치게 되는, *아, 없어도 되는데 있으면 좋겠다-* 처리를 도와주는 한글 가공 유틸리티 패키지입니다. <br />
 It is a Hangul(korean) processing utility package that helps you process *Oh, i don't need it, but I hope i have it-*, which you encounter a lot while programming.
@@ -30,5 +37,5 @@ npm run test
 - Github [@kei155](https://github.com/kei155)
 
 ## 라이센스 License
-Copyright @ 2023 [Gardeneel](https://github.com/kei155).
+Copyright @ 2023 [Gardeneel](https://github.com/kei155).<br/>
 This project is [MIT](https://opensource.org/license/mit/) licensed.

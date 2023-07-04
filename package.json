@@ -1,10 +1,24 @@
 {
   "name": "@owneul/kokr",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "한글 관련 유틸 패키지",
   "main": "dist/index.js",
   "types": "dist/index.d.ts",
   "type": "module",
+  "keywords": [
+    "한글",
+    "조사 치환",
+    "korean",
+    "josa.js",
+    "josa",
+    "한글 조사",
+    "한국어 조사"
+  ],
+  "homepage": "https://github.com/kei155/kokr#readme",
+  "bugs": {
+    "url": "https://github.com/kei155/kokr/issues",
+    "email": "owneul@gmail.com"
+  },
   "scripts": {
     "test": "mocha --reporter spec -r ts-node/register test/**/*.ts -p",
     "build": "tsc"
