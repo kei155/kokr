@@ -1,5 +1,6 @@
 # KOKR
-개발을 하다보면 숱하게 마주치게 되는, *아, 없어도 되는데 있으면 좋겠다-* 처리를 도와주는 한글 가공 유틸리티 패키지입니다.
+개발을 하다보면 숱하게 마주치게 되는, *아, 없어도 되는데 있으면 좋겠다-* 처리를 도와주는 한글 가공 유틸리티 패키지입니다. <br />
+It is a Hangul(korean) processing utility package that helps you process *Oh, i don't need it, but I hope i have it-*, which you encounter a lot while programming.
 
 ## 설치 Installation
 ```sh
