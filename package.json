@@ -6,6 +6,7 @@
   "types": "dist/index.d.ts",
   "type": "module",
   "keywords": [
+    "조사",
     "한글",
     "조사 치환",
     "korean",
