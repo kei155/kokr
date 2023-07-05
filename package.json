@@ -1,6 +1,6 @@
 {
   "name": "@owneul/kokr",
-  "version": "1.0.2",
+  "version": "1.0.3",
   "description": "한글 관련 유틸 패키지",
   "main": "dist/index.js",
   "types": "dist/index.d.ts",

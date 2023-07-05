@@ -92,9 +92,9 @@ numToKor(1_000_000_000, 'EXCEPT_ONE') // 십억
  * translateType EACH
  * 단위로 읽지 않고 개별 숫자를 읽기 (전화번호, 우편번호 등)
  */
-numToKor(14_403_221, 'EXCEPT_ONE') // 천사백사십만삼천이백이십일
-numToKor(111_111_111, 'EXCEPT_ONE') // 억천백십일만천백십일
-numToKor(1_000_000_000, 'EXCEPT_ONE') // 십억
+numToKor(14_403_221, 'EXCEPT_ONE') // 일사사공삼이이일
+numToKor(111_111_111, 'EXCEPT_ONE') // 일일일일일일일일일
+numToKor(1_000_000_000, 'EXCEPT_ONE') // 일공공공공공공공공공
 
 ```
 
